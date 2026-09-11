@@ -1,0 +1,11 @@
+{
+  "project": "libdrm",
+  "version": "2.4.131",
+  "upstream": "https://gitlab.freedesktop.org/mesa/drm",
+  "upstream_tag": "libdrm-2.4.131",
+  "upstream_commit": "6bfcfc725fbe0ece0918535556d61ee567b1ffff",
+  "libraries": [
+    "libdrm.so.2",
+    "libdrm_amdgpu.so.1"
+  ]
+}
