@@ -1,0 +1,6 @@
+{
+  "upstream": "https://gitlab.freedesktop.org/mesa/drm",
+  "tag": "libdrm-2.4.131",
+  "commit": "6bfcfc725fbe0ece0918535556d61ee567b1ffff",
+  "import": "Source snapshot of the upstream tag. GitHub does not provide native forks across hosting providers."
+}
