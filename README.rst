@@ -61,3 +61,8 @@ variable with one or more colon-separated paths where to search for the
 
 For this option to be available, the C library must support secure_getenv()
 function. In systems without it (like NetBSD), this option won't be available.
+
+Reproducible platform builds
+============================
+
+See `glibc, musl and macOS build instructions <README.build.md>`_ for pinned sources, scripts, tool requirements, local commands, CI reproduction and platform support boundaries.
